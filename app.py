@@ -75,7 +75,6 @@ Analyze rental prices using pre-scraped Speedhome data.
 Supported input:
 
 - Area name (e.g. Mont Kiara)
-- Speedhome URL
 - Available Areas: Bangsar, Cyberjaya, KLCC, Kuala Lumpur, Mont Kiara, Petaling Jaya
 
 The application uses locally generated datasets to ensure reliable public deployment.
