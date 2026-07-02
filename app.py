@@ -1,4 +1,6 @@
 import os
+
+import plotly.express as px
 import streamlit as st
 
 from processor import (
@@ -164,6 +166,92 @@ using scraper.py.
         st.metric(
             "Median Monthly Rent",
             f"RM {round(df['monthly_price'].median()):,}"
+        )
+
+    # =================================
+    # PRICE DISTRIBUTION
+    # =================================
+    st.divider()
+
+    st.subheader(
+        "📈 Monthly Rent Distribution"
+    )
+
+    fig = px.histogram(
+        df,
+        x="monthly_price",
+        nbins=15,
+        labels={
+            "monthly_price": "Monthly Rent (RM)"
+        },
+        title="Distribution of Monthly Rental Prices"
+    )
+
+    fig.update_layout(
+        xaxis_title="Monthly Rent (RM)",
+        yaxis_title="Number of Properties"
+    )
+
+    st.plotly_chart(
+        fig,
+        use_container_width=True
+    )
+
+    # =================================
+    # PROPERTY HIGHLIGHTS
+    # =================================
+    st.divider()
+
+    st.subheader(
+        "🏆 Property Highlights"
+    )
+
+    cheapest = df.loc[
+        df["monthly_price"].idxmin()
+    ]
+
+    most_expensive = df.loc[
+        df["monthly_price"].idxmax()
+    ]
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+
+        st.success(
+            "💰 Cheapest Property"
+        )
+
+        st.write(
+            f"**{cheapest['name']}**"
+        )
+
+        st.write(
+            f"RM {cheapest['monthly_price']:,}/month"
+        )
+
+        st.link_button(
+            "View Listing",
+            cheapest["listing_url"]
+        )
+
+    with col2:
+
+        st.warning(
+            "💎 Premium Property"
+        )
+
+        st.write(
+            f"**{most_expensive['name']}**"
+        )
+
+        st.write(
+            f"RM {most_expensive['monthly_price']:,}/month"
+        )
+
+        st.link_button(
+            "View Listing",
+            most_expensive["listing_url"]
         )
 
     # =================================
