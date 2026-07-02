@@ -109,6 +109,10 @@ def extract_properties(property_content):
 
             "pet_friendly": item.get("petFriendly"),
 
+            # NEW: For map visualization
+            "latitude": item.get("latitude"),
+            "longitude": item.get("longitude"),
+
             "listing_url": (
                 f"https://speedhome.com/reels/{item.get('slug')}"
                 if item.get("slug")

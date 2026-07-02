@@ -1,201 +1,171 @@
-id,name,bedroom,bathroom,carpark,monthly_price,yearly_price,sqft,furnish_type,property_type,city,state,pet_friendly,listing_url
-301266,middle room Lena Residence,1,1,1,850,10200,1380.0,PARTIAL,ROOM,Shah Alam,Selangor,False,https://speedhome.com/reels/middle-room-lena-residence-fznsuiic
-301256,"Villa Tropika, Cheras",4,1,0,750,9000,1035.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/villa-tropika-cheras-yxjdyuar
-301255,"Residensi Max, Kuala Lumpur",3,2,1,1800,21600,901.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/residensi-max-kuala-lumpur-vphiuhai
-301252,"Rampai Court Apartment 2, Kuala Lumpur",2,1,1,1150,13800,600.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/rampai-court-apartment-2-kuala-lumpur-wkuikqwr
-301216,"Astrum, Ampang",1,1,0,1600,19200,280.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/astrum-ampang-mkrbllzi
-301214,"The Sentral Recidences, Kuala Lumpur",2,3,1,5500,66000,1400.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-sentral-recidences-kuala-lumpur-bacnnwlj
-301193,[KL Comfy Room] Utilites & WiFi Included,1,1,0,770,9240,910.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/kl-comfy-room-utilites-wifi-included-lqrghfuz
-301179,"ARIA Luxury Residence, Kuala Lumpur",1,1,1,3500,42000,630.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/aria-luxury-residence-kuala-lumpur-ezeagnld
-301165,"Ascenda Residence, Setapak",3,2,2,2000,24000,908.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/ascenda-residence-setapak-asgslroj
-301157,Taman Aston Bukit Mertajam,1,1,1,850,10200,600.0,PARTIAL,LANDED,Bukit Mertajam,Pulau Pinang,False,https://speedhome.com/reels/taman-aston-bukit-mertajam-tpuhrcot
-301133,"Astrum, Ampang",0,1,0,1700,20400,280.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/astrum-ampang-dptdzmez
-301124,Fera Residence,3,2,1,2600,31200,978.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/fera-residence-umitmgae
-301059,"The Establishment, Brickfields",1,1,0,1200,14400,150.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-establishment-brickfields-frxtcnoq
-301042,"Chambers Residence, Kuala Lumpur",0,1,1,2200,26400,450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/chambers-residence-kuala-lumpur-hhpnxodf
-301024,"KLCC LEGASI Kampong Bharu, Kuala Lumpur",3,2,1,2999,35988,950.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/legasi-kampong-bharu-kuala-lumpur-pszdxlcd
-301016,"Residence Sunway Belfield, Kuala Lumpur",2,2,1,4000,48000,788.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residence-sunway-belfield-kuala-lumpur-moplonae
-301015,"Residensi Rampai 2, Kuala Lumpur",1,1,1,980,11760,950.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residensi-rampai-2-kuala-lumpur-xyavjfaf
-300980,"The ERA, Segambut",1,1,1,2000,24000,280.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-era-segambut-dsfsvhfe
-300833,"The Elements, Ampang",3,2,2,3500,42000,1574.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-elements-ampang-ipabynhj
-300804,"Bennington Residences, Setapak",3,2,2,1800,21600,1236.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/bennington-residences-setapak-cdnhlmyj
-300734,"Neu Suites, Kuala Lumpur",1,1,0,1600,19200,300.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/neu-suites-kuala-lumpur-mfuxjqyo
-300635,"Skyline, Kuala Lumpur",4,2,2,5000,60000,1080.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/skyline-kuala-lumpur-upwsrrqt
-300598,"D'Suria Condominium, Ampang",3,2,1,2200,26400,1060.0,FULL,HIGHRISE,Ampang,Selangor,False,https://speedhome.com/reels/dsuria-condominium-ampang-piojtlac
-300594,"Stonor 3, Kuala Lumpur",1,1,1,4000,48000,689.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/stonor-3-kuala-lumpur-yelhhjtj
-300536,Taman Klang Ria (Middle Room with Attached Bathroom),1,1,1,550,6600,,PARTIAL,ROOM,Klang,Selangor,True,https://speedhome.com/reels/middle-room-attach-bathroom-fnavyqgu
-300511,"One Residence, Kuala Luimpur",1,1,1,1800,21600,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/one-residence-kuala-luimpur-rbamaxbt
-300280,M Astra,1,1,0,800,9600,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-astra-gmhzcekb
-300279,M Astra,1,1,0,1000,12000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-astra-yjfduvsn
-300278,M Astra,1,1,0,1200,14400,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-astra-xnydeaom
-300147,"Merdaka View Apartment, Kuala Lumpur",4,2,0,2400,28800,1500.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/merdaka-view-apartment-kuala-lumpur-mjmogcie
-299976,"The Valley Residences Skysierra, Setiawangsa",1,1,1,1700,20400,300.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-jactvhdc
-299928,"The Pano, Kuala Lumpur",1,1,1,1700,20400,500.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-pano-kuala-lumpur-nzncumdv
-299881,"Arte Plus, Ampang",2,2,1,1900,22800,750.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/arte-plus-ampang-bhcrlthp
-299817,"MH Platinum 2 Residences, Setapak",3,2,1,1900,22800,650.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/mh-platinum-2-residences-setapak-svmtlhgz
-299793,"Duta Park Residences, Kuala Lumpur",3,2,2,4000,48000,1129.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/duta-park-residences-pqdvkwmw
-299517,"One Cochrane Residences, Kuala Lumpur",2,2,2,3600,43200,980.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-qzarzniz
-299412,"Bennington Residences, Setapak",4,2,2,2200,26400,1239.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/bennington-residences-setapak-bwzslxcn
-299293,"The ERA, Segambut",1,1,0,900,10800,371.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-era-segambut-hazjsjcb
-299209,"Taman Bukit Hatamas, Kajang",1,1,1,800,9600,,NONE,ROOM,Cheras,Selangor,False,https://speedhome.com/reels/taman-bukit-hartamas-svcwwqrv
-298974,"Amaya Maluri, Cheras",2,2,1,2100,25200,657.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/amaya-maluri-cheras-jzmxfvft
-298890,"Neu Suites, Kuala Lumpur",1,1,1,1100,13200,150.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/neu-suites-kuala-lumpur-lgbnwnqk
-298843,"The ERA, Segambut",0,1,1,2000,24000,301.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-era-segambut-bmkcskjh
-298694,"The Pano, Kuala Lumpur",1,1,1,1400,16800,300.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-pano-kuala-lumpur-bzxrvqbz
-298593,"Astoria, Ampang",2,2,2,2400,28800,735.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/astoria-ampang-wwqyiicr
-298108,"One Cochrane Residences, Kuala Lumpur",1,1,2,1690,20280,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/one-cochrane-residence--xjojsnyc
-297944,"MET 1 Residences, Kuala Lumpur",1,1,1,2999,35988,677.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/met-1-residences-kuala-lumpur-uiachrkj
-297455,"Suasana Sentral Loft, Kuala Lumpur",3,2,1,4100,49200,1584.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/suasana-sentral-loft-kuala-lumpur-puexcrri
-297423,"Reizz Residence, Kuala Lumpur",2,2,1,3100,37200,860.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/reizz-residence-nryaivdv
-297005,Southview service apartment,1,1,0,1350,16200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/southview-service-apartment-obnkjlma
-297004,"Marc Residence, Kuala Lumpur",2,2,0,3800,45600,1030.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/marc-residence-kuala-lumpur-bwydeakm
-296999,"Menara Orkid, Sentul",1,1,0,1500,18000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/menara-orkid-sentul-ktjrytqx
-296666,Sofea Homes,4,3,1,2599,31188,1800.0,NONE,LANDED,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/sofea-homes-qlaogobx
-296617,"3rdNvenue, Kuala Lumpur",1,1,0,950,11400,350.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/3rdnvenue-kuala-lumpur-sdvwzxos
-296509,"Dahlia Apartment, Setapak",3,2,1,1300,15600,900.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/dahlia-apartment-setapak-qzexxdkm
-296431,"Nue Suites, Kuala Lumpur",1,1,0,1000,12000,500.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/nue-suites-kuala-lumpur-iwkqbgon
-293592,"Regalia Residence, Kuala Lumpur",0,1,0,2400,28800,660.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/regalia-residence-kuala-lumpur-sotyxzph
-292652,M Vertica,3,2,2,2100,25200,850.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-vertica-vbxqpscq
-291680,"MH Platinum 2 Residences, Setapak",3,2,1,1500,18000,692.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/mh-platinum-2-residences-setapak-acgkknoh
-291618,Sunway Belfield Residence,2,2,0,3000,36000,797.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/sunway-belfield-residence-pycizxrt
-291297,"Bennington Residences, Setapak",3,2,2,2000,24000,1332.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/bennington-residences-setapak-ttchdbmn
-291288,"The Valley Residencey Skysierra, Setiawangsa",0,1,1,1300,15600,380.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-sqjvvpfm
-290343,Taman Setapak House,2,3,2,2200,26400,1205.0,PARTIAL,LANDED,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/taman-setapak-house-hdnesywm
-289861,Puchong South Reflextion,6,4,4,4200,50400,3471.0,FULL,LANDED,Puchong,Selangor,True,https://speedhome.com/reels/puchong-south-reflextion-xxrprgjr
-289812,"The Valley Residences Skysierra, Setiawangsa",2,1,1,2000,24000,800.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-mcdfdaab
-289676,"Sky Awani 3, Kuala Lumpur",3,2,1,2100,25200,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/sky-awani-3-kuala-lumpur-lqdumugt
-288740,3 Towers,1,1,0,1600,19200,398.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/3-towers-ampang-kuala-lumpur-fqudxmgr
-287587,"Platinum Splendor Residensi Semarak, Kuala Lumpur",3,2,1,1800,21600,882.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/platinum-splendor-residensi-semarak-kuala-lumpur-qdxriptz
-286003,"The Pano, Kuala Lumpur",3,2,2,2850,34200,983.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-pano-kuala-lumpur-yfmicyed
-283496,"Platinum Splendor Residence, Kuala Lumpur",3,2,1,2000,24000,857.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/platinum-splendor-residence-kuala-lumpur-hnxwckrc
-279870,"Riveria City Brickfields, Kuala Lumpur",1,1,1,1700,20400,250.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/riveria-city-brickfields-kuala-lumpur-zczmeybk
-277964,"Henna Residences, Wangsa Maju",2,2,2,2500,30000,850.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/henna-residences-wangsa-maju-vyxzowai
-277640,"myHabitat, KLCC, Kuala Lumpur",3,2,1,5000,60000,1450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/myhabitat-klcc-kuala-lumpur-osloghjc
-276997,"Riveria City Brickfields, Kuala Lumpur",0,1,0,2000,24000,250.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/riveria-city-brickfields-kuala-lumpur-psavaykb
-276638,"Sunway Avila, Wangsa Maju",3,2,2,2800,33600,903.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/sunway-avila-wangsa-maju-crhhelji
-273983,"Shamelin Star Serviced Residences, Cheras",3,2,2,2100,25200,914.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/shamelin-star-serviced-residences-cheras-dlznewws
-272306,Pandan Mas Townhouse,3,2,1,2000,24000,1000.0,FULL,LANDED,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/pandan-mas-townhouse-xnsvqycw
-271734,"Regalia @ Jalan Sultan Ismail, Kuala Lumpur",1,1,0,2000,24000,500.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/regalia-jalan-sultan-ismail-kuala-lumpur-qtxufhla
-271627,"The Valley Residences Skysierra, Setiawangsa",0,1,1,1300,15600,350.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-saiqkzrb
-269827,Flat Taman Bakti,2,1,0,780,9360,800.0,NONE,HIGHRISE,Ampang,Selangor,False,https://speedhome.com/reels/flat-taman-bakti-ysdzvdtg
-269619,"One Cochrane Residences, Kuala Lumpur",2,2,2,3500,42000,980.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-teopaeyz
-269134,"3rdNvenue, Neu Suite",2,1,1,1900,22800,450.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/3rdnvenue-neu-suite-znyhqtha
-267402,"3rdNvenue, Neu Suite",2,1,1,2200,26400,430.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/3rdnvenue-neu-suite-jzhhnloe
-263981,"One Cochrane Residences, Kuala Lumpur",2,2,2,3800,45600,947.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-wqkyqexr
-263915,Chymes Gurney Residence KL,1,1,1,1700,20400,1122.0,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/chymes-gurney-residence-kl-bgudzhnl
-263636,Chymes Gurney Residence KL,1,1,1,1500,18000,1122.0,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/chymes-gurney-residence-kl-ycujmkhm
-263475,"Seasons Garden Residences, Kuala Lumpur",3,2,1,1900,22800,770.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/seasons-garden-residences-kuala-lumpur-frfppwec
-262267,"Fawina Court, Ampang",2,2,1,1500,18000,850.0,PARTIAL,HIGHRISE,Ampang,Selangor,False,https://speedhome.com/reels/fawina-court-ampang-pvlynifj
-261802,"Neu Suites, Kuala Lumpur",1,1,0,900,10800,130.0,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/neu-suites-kuala-lumpur-iemozoyh
-260572,"PV21 Condominium, Wangsa Maju",3,2,1,3000,36000,1325.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/pv21-condominium-wangsa-maju-bnxdzojg
-260490,Vistana Residence,4,2,1,2500,30000,1200.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/vistana-residence-kaijmnyn
-260429,"Setapak Green Condominium, Kuala Lumpur",3,3,1,2300,27600,1362.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/setapak-green-condominium-kuala-lumpur-lfuhvcon
-260393,Rafflesia Condo Sentul,1,1,0,850,10200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/rafflesia-condo-sentul-vmlgpxya
-260186,"Neu Suites, Kuala Lumpur",1,1,0,1000,12000,150.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/neu-suites-kuala-lumpur-kjhkxizt
-259504,"The Valley, Setiawangsa AU2",2,1,1,2300,27600,810.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-valley-setiawangsa-au2-toyswetu
-258761,"Residensi Pandanmas 2, Pandan Indah",3,2,1,1800,21600,900.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residensi-pandanmas-2-pandan-indah-wjxfmsyp
-258371,"Putri Indah Condominium, Johor Bahru",1,1,1,700,8400,,FULL,ROOM,Johor Bahru,Johor,False,https://speedhome.com/reels/putri-indah-condominium-johor-bahru-mzjqfxqq
-258085,"FLASH DEAL - Chambers Residence, Chow Kit, Sunway Putra Mall, PWTC, 15 mins to TRX",0,1,0,2200,26400,460.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/flash-deal-chambers-residence-chow-kit-sunway-putra-mall-pwtc-15-mins-to-trx-uwrgefju
-257467,"3rdNvenue, Neu Suite",2,1,0,1850,22200,450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/3rdnvenue-neu-suite-dfpzhzev
-257143,"Neu Suite, Jalan Ampang",3,2,0,3200,38400,601.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/neu-suite-jalan-ampang-edgitfbr
-256390,"The ERA, Segambut",2,2,2,2300,27600,872.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-era-segambut-yczquxgl
-252337,"Trion, Kuala Lumpur",2,1,1,2500,30000,690.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/trion-kuala-lumpur-assvqcir
-251398,"Residensi Jubilee, Jalan Jubilee Kuala Lumpur",3,2,2,2100,25200,1038.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residensi-jubilee-jalan-jubilee-kuala-lumpur-hrafzrud
-250601,"Kenwingston Platz, Kuala Lumpur",2,2,1,2000,24000,650.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/kenwingston-platz-kuala-lumpur-tzlmuevp
-250450,"M City, Jalan Ampang",0,1,1,1700,20400,560.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/m-city-jalan-ampang-yttnvnux
-248058,"Le Chateau 1 Seputeh, Kuala Lumpur",3,1,1,1600,19200,1205.0,PARTIAL,HIGHRISE,Masai,Johor,True,https://speedhome.com/reels/le-chateau-1-seputeh-kuala-lumpur-sakxrwbe
-246250,"Arte Plus Jalan Ampang, Kuala Lumpur",1,1,1,1150,13800,432.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/arte-plus-jalan-ampang-kuala-lumpur-dbpfwpqu
-245452,"Seasons Garden Residences, Wangsa Maju",1,1,1,800,9600,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/seasons-garden-residences-wangsa-maju-dxnkthdt
-243625,"The Birch, Kuala Lumpur",1,1,0,850,10200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-birch-kuala-lumpur-gmyawfdb
-243309,"Parc 3, Cheras",3,2,2,2900,34800,865.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/parc-3-cheras-oopmillq
-241967,"The Elements, Ampang Hilir",1,1,1,1950,23400,705.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-elements-ampang-hilir-goebwpmc
-241092,"Arte+, Jalan Ampang",2,2,1,2200,26400,777.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/arte-jalan-ampang-iwnwfrnj
-238511,The Birch Residency,2,2,2,2200,26400,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-birch-residency-dcfqwxlh
-237789,"Kenwingston Platz, Setapak",2,2,1,1600,19200,650.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/kenwingston-platz-setapak-wrbryvsn
-237715,"Datum Jelatek Serviced Residences, Wilayah Persekutuan",2,1,2,2800,33600,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/datum-jelatek-serviced-residences-wilayah-persekutuan-evqcxhhw
-236176,The Birch,2,2,1,1900,22800,668.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-birch-mbjrfaba
-235138,Residensi Bayu Andaman,3,2,1,1800,21600,1000.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residensi-bayu-andaman-rbfqvuao
-230087,"Fera Residence, Wangsa Maju",3,2,2,2500,30000,819.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/fera-residence-wangsa-maju-lffibdxa
-229738,M Vertica KL City Residences,3,2,2,2850,34200,850.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/m-vertica-kl-city-residences-fkketkea
-228112,"The Elements Ampang Condominium, Kuala Lumpur",1,1,1,2000,24000,705.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-elements-ampang-condominium-kuala-lumpur-vtbepthn
-227793,"Sri Mutiara, Sungai Besi",2,2,1,1500,18000,807.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/sri-mutiara-sungai-besi-mjktlamd
-227189,"Pertiwi Indah, Cheras",3,2,2,2200,26400,1100.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/pertiwi-indah-cheras-kjsvfknp
-226300,"Residensi Platinum Teratai, Kuala Lumpur",1,1,0,640,7680,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residensi-platinum-teratai-kuala-lumpur-mbixgfcd
-217753,"Rica Residence, Sentul",1,1,0,850,10200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/rica-residence-sentul-peieanbb
-213586,"SkyMeridien, Sentul",1,1,0,1000,12000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/skymeridien-sentul-sdcxaghc
-205925,"The Elements, Ampang",1,1,0,2000,24000,707.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-elements-ampang-cetdzddh
-201523,Dua Sentral Residences,1,1,1,2300,27600,710.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/dua-sentral-residences-oifwitmc
-196284,"Diamond Regency, Setapak",3,2,2,1500,18000,1002.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/diamond-regency-setapak-bkzgqsfe
-196247,"TR Residence, Kuala Lumpur",3,2,1,2800,33600,753.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/tr-residence-kuala-lumpur-thxajbkq
-185958,"Arte +, Jalan Ampang",2,2,1,2000,24000,721.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/arte-jalan-ampang-kwpfjxqd
-185231,PV20,4,2,2,1950,23400,1333.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/pv20-ujftgyqz
-181553,Chymes Gurney Residence KL,2,2,1,2999,35988,1122.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/chymes-gurney-residence-kl-jzkfikmd
-178329,"TR Residence, Kuala Lumpur",1,1,0,990,11880,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/tr-residence-kuala-lumpur-crzysqxz
-167079,"Suria Jelatek Residence, Ampang Hilir",0,1,0,1900,22800,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/suria-jelatek-residence-ampang-hilir-uhnbgzja
-162317,"One Residences, Sungai Besi",2,2,2,1900,22800,888.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/one-residences-sungai-besi-ciklxkgp
-158448,"Amaya Maluri, Cheras",2,2,2,2600,31200,920.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/amaya-maluri-cheras-sjfylggt
-158031,"Regalia Residence, Kuala Lumpur",0,1,1,2100,25200,600.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/regalia-residence-tiijztqi
-155139,Villa Puteri Condominium,3,2,1,2300,27600,1119.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/villa-puteri-condominium-omcppfit
-153227,"Platinum Lake PV20, Setapak",4,2,2,1800,21600,1313.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/platinum-lake-pv20-setapak-exfdjlfu
-150560,"Rica Residence, Sentul",2,1,1,1600,19200,657.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/rica-residence-sentul-kiunkejv
-149891,The Palladium Jalan Gurney 2,3,2,1,2000,24000,1090.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-palladium-jalan-gurney-2-qmjdvjxb
-149457,"Maytower, Dang Wangi",0,1,0,1500,18000,439.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/maytower-dang-wangi-klurxghf
-148526,"Parkview Service Apartment, Kuala Lumpur",1,1,0,1950,23400,495.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/parkview-service-apartment-kuala-lumpur-amkozsfp
-144689,"1 Petaling, Sungai Besi",3,2,1,1700,20400,1098.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/1-petaling-sungai-besi-yxxkwcpz
-136828,"The Haute, Gurney KL",3,2,2,2600,31200,1050.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/the-haute-gurney-kl-ehcforjg
-130099,"The Maple, Sentul",4,3,2,3600,43200,1569.0,PARTIAL,HIGHRISE,,,True,https://speedhome.com/reels/the-maple-sentul-lvnhaixt
-124839,"3 Towers, Ampang Hilir",0,1,0,1300,15600,420.0,PARTIAL,HIGHRISE,,,False,https://speedhome.com/reels/3-towers-ampang-hilir-jgkytbki
-121818,"The Elements, Ampang Hilir",1,1,1,1800,21600,705.0,PARTIAL,HIGHRISE,,,False,https://speedhome.com/reels/the-elements-ampang-hilir-gwokvbkq
-120493,BAM Villa condo,2,2,1,1750,21000,980.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/bam-villa-condo-jqavbjuv
-118600,Annexe,1,1,1,1600,19200,650.0,FULL,LANDED,,,True,https://speedhome.com/reels/annexe-kqpmorxh
-117883,"Parkview Serviced Apartment, Kuala Lumpur",1,1,1,1950,23400,500.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/parkview-serviced-apartment-kuala-lumpur-skgnubtn
-115594,"222 Residency, Setapak",2,2,1,2250,27000,904.0,FULL,HIGHRISE,,,True,https://speedhome.com/reels/222-residency-setapak-uvrwgssk
-113712,"M Suites, Ampang Hilir",2,2,1,2300,27600,1020.0,FULL,HIGHRISE,,,True,https://speedhome.com/reels/m-suites-ampang-hilir-dnjgxtbk
-113070,"Arte +, Jalan Ampang",1,1,1,1800,21600,604.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/arte-jalan-ampang-qddunany
-110817,"Menara KLH, Jalan Ipoh",3,3,1,1780,21360,1200.0,PARTIAL,HIGHRISE,,,False,https://speedhome.com/reels/menara-klh-jalan-ipoh-vtejuvyj
-107417,"The Elements, Ampang",1,1,1,1950,23400,640.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/the-elements-ampang-wpnoefix
-106352,Marc Residence KLCC Suites,2,2,2,4000,48000,1066.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/marc-residence-klcc-suites-qfmkpbgi
-103882,"MCity, Jalan Ampang, Kuala Lumpur",1,1,0,1800,21600,510.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/m-city-kuala-lumpur-ptrpbctd
-103563,"Suria Jelatek Residence, Ampang Hilir",1,1,0,1000,12000,,FULL,ROOM,,,True,https://speedhome.com/reels/suria-jelatek-residence-ampang-hilir-fxgfnwyw
-103278,"Cempaka Suits, Cheras",0,1,0,1650,19800,500.0,FULL,HIGHRISE,,,False,https://speedhome.com/reels/cempaka-suits-cheras-mtjiygrr
-103197,"Suria Jelatek Residence, Ampang Hilir",1,1,0,950,11400,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/suria-jelatek-residence-ampang-hilir-igzwcssq
-301266,middle room Lena Residence,1,1,1,850,10200,1380.0,PARTIAL,ROOM,Shah Alam,Selangor,False,https://speedhome.com/reels/middle-room-lena-residence-fznsuiic
-301256,"Villa Tropika, Cheras",4,1,0,750,9000,1035.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/villa-tropika-cheras-yxjdyuar
-301255,"Residensi Max, Kuala Lumpur",3,2,1,1800,21600,901.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/residensi-max-kuala-lumpur-vphiuhai
-301252,"Rampai Court Apartment 2, Kuala Lumpur",2,1,1,1150,13800,600.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/rampai-court-apartment-2-kuala-lumpur-wkuikqwr
-301216,"Astrum, Ampang",1,1,0,1600,19200,280.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/astrum-ampang-mkrbllzi
-301214,"The Sentral Recidences, Kuala Lumpur",2,3,1,5500,66000,1400.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-sentral-recidences-kuala-lumpur-bacnnwlj
-301193,[KL Comfy Room] Utilites & WiFi Included,1,1,0,770,9240,910.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/kl-comfy-room-utilites-wifi-included-lqrghfuz
-301179,"ARIA Luxury Residence, Kuala Lumpur",1,1,1,3500,42000,630.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/aria-luxury-residence-kuala-lumpur-ezeagnld
-301165,"Ascenda Residence, Setapak",3,2,2,2000,24000,908.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/ascenda-residence-setapak-asgslroj
-301157,Taman Aston Bukit Mertajam,1,1,1,850,10200,600.0,PARTIAL,LANDED,Bukit Mertajam,Pulau Pinang,False,https://speedhome.com/reels/taman-aston-bukit-mertajam-tpuhrcot
-301133,"Astrum, Ampang",0,1,0,1700,20400,280.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/astrum-ampang-dptdzmez
-301124,Fera Residence,3,2,1,2600,31200,978.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/fera-residence-umitmgae
-301059,"The Establishment, Brickfields",1,1,0,1200,14400,150.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-establishment-brickfields-frxtcnoq
-301042,"Chambers Residence, Kuala Lumpur",0,1,1,2200,26400,450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/chambers-residence-kuala-lumpur-hhpnxodf
-301024,"KLCC LEGASI Kampong Bharu, Kuala Lumpur",3,2,1,2999,35988,950.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/legasi-kampong-bharu-kuala-lumpur-pszdxlcd
-301016,"Residence Sunway Belfield, Kuala Lumpur",2,2,1,4000,48000,788.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residence-sunway-belfield-kuala-lumpur-moplonae
-301015,"Residensi Rampai 2, Kuala Lumpur",1,1,1,980,11760,950.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/residensi-rampai-2-kuala-lumpur-xyavjfaf
-300980,"The ERA, Segambut",1,1,1,2000,24000,280.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-era-segambut-dsfsvhfe
-300833,"The Elements, Ampang",3,2,2,3500,42000,1574.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-elements-ampang-ipabynhj
-300804,"Bennington Residences, Setapak",3,2,2,1800,21600,1236.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/bennington-residences-setapak-cdnhlmyj
-300734,"Neu Suites, Kuala Lumpur",1,1,0,1600,19200,300.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/neu-suites-kuala-lumpur-mfuxjqyo
-300635,"Skyline, Kuala Lumpur",4,2,2,5000,60000,1080.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/skyline-kuala-lumpur-upwsrrqt
-300598,"D'Suria Condominium, Ampang",3,2,1,2200,26400,1060.0,FULL,HIGHRISE,Ampang,Selangor,False,https://speedhome.com/reels/dsuria-condominium-ampang-piojtlac
-300594,"Stonor 3, Kuala Lumpur",1,1,1,4000,48000,689.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/stonor-3-kuala-lumpur-yelhhjtj
-300536,Taman Klang Ria (Middle Room with Attached Bathroom),1,1,1,550,6600,,PARTIAL,ROOM,Klang,Selangor,True,https://speedhome.com/reels/middle-room-attach-bathroom-fnavyqgu
-300511,"One Residence, Kuala Luimpur",1,1,1,1800,21600,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/one-residence-kuala-luimpur-rbamaxbt
-300280,M Astra,1,1,0,800,9600,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-astra-gmhzcekb
-300279,M Astra,1,1,0,1000,12000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-astra-yjfduvsn
-300278,M Astra,1,1,0,1200,14400,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/m-astra-xnydeaom
-300147,"Merdaka View Apartment, Kuala Lumpur",4,2,0,2400,28800,1500.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/merdaka-view-apartment-kuala-lumpur-mjmogcie
-299976,"The Valley Residences Skysierra, Setiawangsa",1,1,1,1700,20400,300.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-jactvhdc
-299928,"The Pano, Kuala Lumpur",1,1,1,1700,20400,500.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/the-pano-kuala-lumpur-nzncumdv
-299881,"Arte Plus, Ampang",2,2,1,1900,22800,750.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/arte-plus-ampang-bhcrlthp
-299817,"MH Platinum 2 Residences, Setapak",3,2,1,1900,22800,650.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/mh-platinum-2-residences-setapak-svmtlhgz
-299793,"Duta Park Residences, Kuala Lumpur",3,2,2,4000,48000,1129.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/duta-park-residences-pqdvkwmw
-299517,"One Cochrane Residences, Kuala Lumpur",2,2,2,3600,43200,980.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-qzarzniz
-299412,"Bennington Residences, Setapak",4,2,2,2200,26400,1239.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/bennington-residences-setapak-bwzslxcn
-299293,"The ERA, Segambut",1,1,0,900,10800,371.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,https://speedhome.com/reels/the-era-segambut-hazjsjcb
-299209,"Taman Bukit Hatamas, Kajang",1,1,1,800,9600,,NONE,ROOM,Cheras,Selangor,False,https://speedhome.com/reels/taman-bukit-hartamas-svcwwqrv
-298974,"Amaya Maluri, Cheras",2,2,1,2100,25200,657.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,https://speedhome.com/reels/amaya-maluri-cheras-jzmxfvft
+id,name,bedroom,bathroom,carpark,monthly_price,yearly_price,sqft,furnish_type,property_type,city,state,pet_friendly,latitude,longitude,listing_url
+301266,middle room Lena Residence,1,1,1,850,10200,1380.0,PARTIAL,ROOM,Shah Alam,Selangor,False,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/middle-room-lena-residence-fznsuiic
+301256,"Villa Tropika, Cheras",4,1,0,750,9000,1035.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1186512074,101.7307591438,https://speedhome.com/reels/villa-tropika-cheras-yxjdyuar
+301252,"Rampai Court Apartment 2, Kuala Lumpur",2,1,1,1150,13800,600.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.192984589401359,101.73482559319949,https://speedhome.com/reels/rampai-court-apartment-2-kuala-lumpur-wkuikqwr
+301216,"Astrum, Ampang",1,1,0,1600,19200,280.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.174793585023609,101.73618987826215,https://speedhome.com/reels/astrum-ampang-mkrbllzi
+301214,"The Sentral Recidences, Kuala Lumpur",2,3,1,5500,66000,1400.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.136976221190274,101.68937393789015,https://speedhome.com/reels/the-sentral-recidences-kuala-lumpur-bacnnwlj
+301193,[KL Comfy Room] Utilites & WiFi Included,1,1,0,770,9240,910.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.139,101.6869,https://speedhome.com/reels/kl-comfy-room-utilites-wifi-included-lqrghfuz
+301165,"Ascenda Residence, Setapak",3,2,2,2000,24000,908.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1932068485623812,101.71520057397379,https://speedhome.com/reels/ascenda-residence-setapak-asgslroj
+301157,Taman Aston Bukit Mertajam,1,1,1,850,10200,600.0,PARTIAL,LANDED,Bukit Mertajam,Pulau Pinang,False,3.139,101.6869,https://speedhome.com/reels/taman-aston-bukit-mertajam-tpuhrcot
+301133,"Astrum, Ampang",0,1,0,1700,20400,280.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.174793585023609,101.73618987826215,https://speedhome.com/reels/astrum-ampang-dptdzmez
+301124,Fera Residence,3,2,1,2600,31200,978.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1919359028,101.7376899719,https://speedhome.com/reels/fera-residence-umitmgae
+301059,"The Establishment, Brickfields",1,1,0,1200,14400,150.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.127981,101.680239,https://speedhome.com/reels/the-establishment-brickfields-frxtcnoq
+301042,"Chambers Residence, Kuala Lumpur",0,1,1,2200,26400,450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.167427814418542,101.69562076666155,https://speedhome.com/reels/chambers-residence-kuala-lumpur-hhpnxodf
+301024,"KLCC LEGASI Kampong Bharu, Kuala Lumpur",3,2,1,2999,35988,950.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.160608196605549,101.70173253642707,https://speedhome.com/reels/legasi-kampong-bharu-kuala-lumpur-pszdxlcd
+301016,"Residence Sunway Belfield, Kuala Lumpur",2,2,1,4000,48000,788.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.135916959742901,101.69773842433254,https://speedhome.com/reels/residence-sunway-belfield-kuala-lumpur-moplonae
+301015,"Residensi Rampai 2, Kuala Lumpur",1,1,1,980,11760,950.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1930928188,101.7266178131,https://speedhome.com/reels/residensi-rampai-2-kuala-lumpur-xyavjfaf
+300980,"The ERA, Segambut",1,1,1,2000,24000,280.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1819735165,101.6753232479,https://speedhome.com/reels/the-era-segambut-dsfsvhfe
+300833,"The Elements, Ampang",3,2,2,3500,42000,1574.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1612557298,101.7481130362,https://speedhome.com/reels/the-elements-ampang-ipabynhj
+300804,"Bennington Residences, Setapak",3,2,2,1800,21600,1236.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1942497335,101.7157816887,https://speedhome.com/reels/bennington-residences-setapak-cdnhlmyj
+300734,"Neu Suites, Kuala Lumpur",1,1,0,1600,19200,300.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1624802903479177,101.73706364844472,https://speedhome.com/reels/neu-suites-kuala-lumpur-mfuxjqyo
+300635,"Skyline, Kuala Lumpur",4,2,2,5000,60000,1080.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1335139300106456,101.71248945301186,https://speedhome.com/reels/skyline-kuala-lumpur-upwsrrqt
+300598,"D'Suria Condominium, Ampang",3,2,1,2200,26400,1060.0,FULL,HIGHRISE,Ampang,Selangor,False,3.1516917291232196,101.74828261847398,https://speedhome.com/reels/dsuria-condominium-ampang-piojtlac
+300594,"Stonor 3, Kuala Lumpur",1,1,1,4000,48000,689.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1539069221,101.72047019,https://speedhome.com/reels/stonor-3-kuala-lumpur-yelhhjtj
+300536,Taman Klang Ria (Middle Room with Attached Bathroom),1,1,1,550,6600,,PARTIAL,ROOM,Klang,Selangor,True,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/middle-room-attach-bathroom-fnavyqgu
+300511,"One Residence, Kuala Luimpur",1,1,1,1800,21600,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.1273607971,101.7122197151,https://speedhome.com/reels/one-residence-kuala-luimpur-rbamaxbt
+300280,M Astra,1,1,0,800,9600,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/m-astra-gmhzcekb
+300279,M Astra,1,1,0,1000,12000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/m-astra-yjfduvsn
+300278,M Astra,1,1,0,1200,14400,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/m-astra-xnydeaom
+300147,"Merdaka View Apartment, Kuala Lumpur",4,2,0,2400,28800,1500.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.135795065431042,101.70283255336535,https://speedhome.com/reels/merdaka-view-apartment-kuala-lumpur-mjmogcie
+299976,"The Valley Residences Skysierra, Setiawangsa",1,1,1,1700,20400,300.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1771300022077056,101.7484491676035,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-jactvhdc
+299928,"The Pano, Kuala Lumpur",1,1,1,1700,20400,500.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1855916,101.6815326,https://speedhome.com/reels/the-pano-kuala-lumpur-nzncumdv
+299881,"Arte Plus, Ampang",2,2,1,1900,22800,750.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.161943,101.747782,https://speedhome.com/reels/arte-plus-ampang-bhcrlthp
+299817,"MH Platinum 2 Residences, Setapak",3,2,1,1900,22800,650.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.195689818314526,101.72293920927615,https://speedhome.com/reels/mh-platinum-2-residences-setapak-svmtlhgz
+299793,"Duta Park Residences, Kuala Lumpur",3,2,2,4000,48000,1129.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1706746691253733,101.68638966137273,https://speedhome.com/reels/duta-park-residences-pqdvkwmw
+299517,"One Cochrane Residences, Kuala Lumpur",2,2,2,3600,43200,980.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.133509272056827,101.7208633,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-qzarzniz
+299412,"Bennington Residences, Setapak",4,2,2,2200,26400,1239.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1942497335,101.7157816887,https://speedhome.com/reels/bennington-residences-setapak-bwzslxcn
+299293,"The ERA, Segambut",1,1,0,900,10800,371.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1819735165,101.6753232479,https://speedhome.com/reels/the-era-segambut-hazjsjcb
+299209,"Taman Bukit Hatamas, Kajang",1,1,1,800,9600,,NONE,ROOM,Cheras,Selangor,False,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/taman-bukit-hartamas-svcwwqrv
+298974,"Amaya Maluri, Cheras",2,2,1,2100,25200,657.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1274143613,101.7291900516,https://speedhome.com/reels/amaya-maluri-cheras-jzmxfvft
+298890,"Neu Suites, Kuala Lumpur",1,1,1,1100,13200,150.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1624802903479177,101.73706364844472,https://speedhome.com/reels/neu-suites-kuala-lumpur-lgbnwnqk
+298843,"The ERA, Segambut",0,1,1,2000,24000,301.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1819735165,101.6753232479,https://speedhome.com/reels/the-era-segambut-bmkcskjh
+298694,"The Pano, Kuala Lumpur",1,1,1,1400,16800,300.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1855916,101.6815326,https://speedhome.com/reels/the-pano-kuala-lumpur-bzxrvqbz
+298593,"Astoria, Ampang",2,2,2,2400,28800,735.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1626055052,101.7477107048,https://speedhome.com/reels/astoria-ampang-wwqyiicr
+298108,"One Cochrane Residences, Kuala Lumpur",1,1,2,1690,20280,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.133509272056827,101.7208633,https://speedhome.com/reels/one-cochrane-residence--xjojsnyc
+297944,"MET 1 Residences, Kuala Lumpur",1,1,1,2999,35988,677.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1494727,101.7139056,https://speedhome.com/reels/met-1-residences-kuala-lumpur-uiachrkj
+297455,"Suasana Sentral Loft, Kuala Lumpur",3,2,1,4100,49200,1584.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1313882,101.6841041,https://speedhome.com/reels/suasana-sentral-loft-kuala-lumpur-puexcrri
+297423,"Reizz Residence, Kuala Lumpur",2,2,1,3100,37200,860.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.161448555,101.7466163635,https://speedhome.com/reels/reizz-residence-nryaivdv
+297005,Southview service apartment,1,1,0,1350,16200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/southview-service-apartment-obnkjlma
+297004,"Marc Residence, Kuala Lumpur",2,2,0,3800,45600,1030.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.15527,101.71,https://speedhome.com/reels/marc-residence-kuala-lumpur-bwydeakm
+296999,"Menara Orkid, Sentul",1,1,0,1500,18000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1811058202,101.6962391138,https://speedhome.com/reels/menara-orkid-sentul-ktjrytqx
+296666,Sofea Homes,4,3,1,2599,31188,1800.0,NONE,LANDED,Kuala Lumpur,Wilayah Persekutuan,False,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/sofea-homes-qlaogobx
+296617,"3rdNvenue, Kuala Lumpur",1,1,0,950,11400,350.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.16321545283493,101.73697385138297,https://speedhome.com/reels/3rdnvenue-kuala-lumpur-sdvwzxos
+296509,"Dahlia Apartment, Setapak",3,2,1,1300,15600,900.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1979240003,101.7298042774,https://speedhome.com/reels/dahlia-apartment-setapak-qzexxdkm
+296431,"Nue Suites, Kuala Lumpur",1,1,0,1000,12000,500.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.139003,101.686855,https://speedhome.com/reels/nue-suites-kuala-lumpur-iwkqbgon
+296116,"Residence Sunway Belfield, Kuala Lumpur",3,2,2,3800,45600,1055.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.135916959742901,101.69773842433254,https://speedhome.com/reels/residence-sunway-belfield-kuala-lumpur-svlhxtqt
+293592,"Regalia Residence, Kuala Lumpur",0,1,0,2400,28800,660.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.164429,101.692577,https://speedhome.com/reels/regalia-residence-kuala-lumpur-sotyxzph
+292652,M Vertica,3,2,2,2100,25200,850.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1186155789280656,101.72651394129184,https://speedhome.com/reels/m-vertica-vbxqpscq
+291680,"MH Platinum 2 Residences, Setapak",3,2,1,1500,18000,692.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.195689818314526,101.72293920927615,https://speedhome.com/reels/mh-platinum-2-residences-setapak-acgkknoh
+291618,Sunway Belfield Residence,2,2,0,3000,36000,797.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.135916959742901,101.69773842433254,https://speedhome.com/reels/sunway-belfield-residence-pycizxrt
+291297,"Bennington Residences, Setapak",3,2,2,2000,24000,1332.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1943769522953405,101.71467926740367,https://speedhome.com/reels/bennington-residences-setapak-ttchdbmn
+291288,"The Valley Residencey Skysierra, Setiawangsa",0,1,1,1300,15600,380.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1771300022077056,101.7484491676035,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-sqjvvpfm
+290343,Taman Setapak House,2,3,2,2200,26400,1205.0,PARTIAL,LANDED,Kuala Lumpur,Wilayah Persekutuan,False,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/taman-setapak-house-hdnesywm
+289861,Puchong South Reflextion,6,4,4,4200,50400,3471.0,FULL,LANDED,Puchong,Selangor,True,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/puchong-south-reflextion-xxrprgjr
+289812,"The Valley Residences Skysierra, Setiawangsa",2,1,1,2000,24000,800.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1771300022077056,101.7484491676035,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-mcdfdaab
+289676,"Sky Awani 3, Kuala Lumpur",3,2,1,2100,25200,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1920063,101.7227192,https://speedhome.com/reels/sky-awani-3-kuala-lumpur-lqdumugt
+288740,3 Towers,1,1,0,1600,19200,398.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.160772322979278,101.74187548169296,https://speedhome.com/reels/3-towers-ampang-kuala-lumpur-fqudxmgr
+287587,"Platinum Splendor Residensi Semarak, Kuala Lumpur",3,2,1,1800,21600,882.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1817806951,101.72498703,https://speedhome.com/reels/platinum-splendor-residensi-semarak-kuala-lumpur-qdxriptz
+286003,"The Pano, Kuala Lumpur",3,2,2,2850,34200,983.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1855916,101.6815326,https://speedhome.com/reels/the-pano-kuala-lumpur-yfmicyed
+283496,"Platinum Splendor Residence, Kuala Lumpur",3,2,1,2000,24000,857.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1817806951,101.72498703,https://speedhome.com/reels/platinum-splendor-residence-kuala-lumpur-hnxwckrc
+279870,"Riveria City Brickfields, Kuala Lumpur",1,1,1,1700,20400,250.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.130393853409356,101.68970816929377,https://speedhome.com/reels/riveria-city-brickfields-kuala-lumpur-zczmeybk
+277964,"Henna Residences, Wangsa Maju",2,2,2,2500,30000,850.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1915876568322323,101.73804882032769,https://speedhome.com/reels/henna-residences-wangsa-maju-vyxzowai
+277640,"myHabitat, KLCC, Kuala Lumpur",3,2,1,5000,60000,1450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.162606,101.72017,https://speedhome.com/reels/myhabitat-klcc-kuala-lumpur-osloghjc
+276997,"Riveria City Brickfields, Kuala Lumpur",0,1,0,2000,24000,250.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.130660635959667,101.68980658836264,https://speedhome.com/reels/riveria-city-brickfields-kuala-lumpur-psavaykb
+276638,"Sunway Avila, Wangsa Maju",3,2,2,2800,33600,903.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.193758701051812,101.73786001534211,https://speedhome.com/reels/sunway-avila-wangsa-maju-crhhelji
+273983,"Shamelin Star Serviced Residences, Cheras",3,2,2,2100,25200,914.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1260538276,101.7362952232,https://speedhome.com/reels/shamelin-star-serviced-residences-cheras-dlznewws
+272306,Pandan Mas Townhouse,3,2,1,2000,24000,1000.0,FULL,LANDED,Kuala Lumpur,Wilayah Persekutuan,False,3.1332366266365397,101.74541247885132,https://speedhome.com/reels/pandan-mas-townhouse-xnsvqycw
+271734,"Regalia @ Jalan Sultan Ismail, Kuala Lumpur",1,1,0,2000,24000,500.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.164429,101.692577,https://speedhome.com/reels/regalia-jalan-sultan-ismail-kuala-lumpur-qtxufhla
+271627,"The Valley Residences Skysierra, Setiawangsa",0,1,1,1300,15600,350.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1771300022077056,101.7484491676035,https://speedhome.com/reels/the-valley-residences-skysierra-setiawangsa-saiqkzrb
+269827,Flat Taman Bakti,2,1,0,780,9360,800.0,NONE,HIGHRISE,Ampang,Selangor,False,3.1359512724716723,101.74563208372528,https://speedhome.com/reels/flat-taman-bakti-ysdzvdtg
+269619,"One Cochrane Residences, Kuala Lumpur",2,2,2,3500,42000,980.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.133509272056827,101.7208633,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-teopaeyz
+269134,"3rdNvenue, Neu Suite",2,1,1,1900,22800,450.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.16321545283493,101.73697385138297,https://speedhome.com/reels/3rdnvenue-neu-suite-znyhqtha
+267402,"3rdNvenue, Neu Suite",2,1,1,2200,26400,430.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1629690687384064,101.73701677117674,https://speedhome.com/reels/3rdnvenue-neu-suite-jzhhnloe
+263981,"One Cochrane Residences, Kuala Lumpur",2,2,2,3800,45600,947.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.133509272056827,101.7208633,https://speedhome.com/reels/one-cochrane-residences-kuala-lumpur-wqkyqexr
+263915,Chymes Gurney Residence KL,1,1,1,1700,20400,1122.0,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1696228,101.7260193,https://speedhome.com/reels/chymes-gurney-residence-kl-bgudzhnl
+263636,Chymes Gurney Residence KL,1,1,1,1500,18000,1122.0,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1696228,101.7260193,https://speedhome.com/reels/chymes-gurney-residence-kl-ycujmkhm
+263475,"Seasons Garden Residences, Kuala Lumpur",3,2,1,1900,22800,770.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1879938088,101.7340421677,https://speedhome.com/reels/seasons-garden-residences-kuala-lumpur-frfppwec
+262267,"Fawina Court, Ampang",2,2,1,1500,18000,850.0,PARTIAL,HIGHRISE,Ampang,Selangor,False,3.1519465171,101.749497056,https://speedhome.com/reels/fawina-court-ampang-pvlynifj
+261802,"Neu Suites, Kuala Lumpur",1,1,0,900,10800,130.0,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1624802903479177,101.73706364844472,https://speedhome.com/reels/neu-suites-kuala-lumpur-iemozoyh
+260572,"PV21 Condominium, Wangsa Maju",3,2,1,3000,36000,1325.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1994916883999953,101.71945688353883,https://speedhome.com/reels/pv21-condominium-wangsa-maju-bnxdzojg
+260490,Vistana Residence,4,2,1,2500,30000,1200.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.171395077301309,101.69804695767128,https://speedhome.com/reels/vistana-residence-kaijmnyn
+260429,"Setapak Green Condominium, Kuala Lumpur",3,3,1,2300,27600,1362.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1960799396793687,101.70677231534262,https://speedhome.com/reels/setapak-green-condominium-kuala-lumpur-lfuhvcon
+260393,Rafflesia Condo Sentul,1,1,0,850,10200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.182836,101.69731,https://speedhome.com/reels/rafflesia-condo-sentul-vmlgpxya
+260186,"Neu Suites, Kuala Lumpur",1,1,0,1000,12000,150.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1624802903479177,101.73706364844472,https://speedhome.com/reels/neu-suites-kuala-lumpur-kjhkxizt
+259504,"The Valley, Setiawangsa AU2",2,1,1,2300,27600,810.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1771300022077056,101.7484491676035,https://speedhome.com/reels/the-valley-setiawangsa-au2-toyswetu
+258761,"Residensi Pandanmas 2, Pandan Indah",3,2,1,1800,21600,900.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1412192,101.7375896,https://speedhome.com/reels/residensi-pandanmas-2-pandan-indah-wjxfmsyp
+258371,"Putri Indah Condominium, Johor Bahru",1,1,1,700,8400,,FULL,ROOM,Johor Bahru,Johor,False,3.1572869968569424,101.71167450894322,https://speedhome.com/reels/putri-indah-condominium-johor-bahru-mzjqfxqq
+258085,"FLASH DEAL - Chambers Residence, Chow Kit, Sunway Putra Mall, PWTC, 15 mins to TRX",0,1,0,2200,26400,460.0,FULL,HIGHRISE,,,False,3.139,101.6869,https://speedhome.com/reels/flash-deal-chambers-residence-chow-kit-sunway-putra-mall-pwtc-15-mins-to-trx-uwrgefju
+257467,"3rdNvenue, Neu Suite",2,1,0,1850,22200,450.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.16321545283493,101.73697385138297,https://speedhome.com/reels/3rdnvenue-neu-suite-dfpzhzev
+257143,"Neu Suite, Jalan Ampang",3,2,0,3200,38400,601.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1624802903479177,101.73706364844472,https://speedhome.com/reels/neu-suite-jalan-ampang-edgitfbr
+256390,"The ERA, Segambut",2,2,2,2300,27600,872.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1819735165,101.6753232479,https://speedhome.com/reels/the-era-segambut-yczquxgl
+252337,"Trion, Kuala Lumpur",2,1,1,2500,30000,690.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1242817850654494,101.71023502698604,https://speedhome.com/reels/trion-kuala-lumpur-assvqcir
+251398,"Residensi Jubilee, Jalan Jubilee Kuala Lumpur",3,2,2,2100,25200,1038.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1309118,101.709275,https://speedhome.com/reels/residensi-jubilee-jalan-jubilee-kuala-lumpur-hrafzrud
+250601,"Kenwingston Platz, Kuala Lumpur",2,2,1,2000,24000,650.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.201706103422562,101.70337376928158,https://speedhome.com/reels/kenwingston-platz-kuala-lumpur-tzlmuevp
+250450,"M City, Jalan Ampang",0,1,1,1700,20400,560.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.159041,101.747901,https://speedhome.com/reels/m-city-jalan-ampang-yttnvnux
+248058,"Le Chateau 1 Seputeh, Kuala Lumpur",3,1,1,1600,19200,1205.0,PARTIAL,HIGHRISE,Masai,Johor,True,3.1213508665,101.6918832064,https://speedhome.com/reels/le-chateau-1-seputeh-kuala-lumpur-sakxrwbe
+246250,"Arte Plus Jalan Ampang, Kuala Lumpur",1,1,1,1150,13800,432.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1627397748702655,101.74748536931479,https://speedhome.com/reels/arte-plus-jalan-ampang-kuala-lumpur-dbpfwpqu
+245452,"Seasons Garden Residences, Wangsa Maju",1,1,1,800,9600,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1878827,101.7340205,https://speedhome.com/reels/seasons-garden-residences-wangsa-maju-dxnkthdt
+243625,"The Birch, Kuala Lumpur",1,1,0,850,10200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1766203561926845,101.68386662493765,https://speedhome.com/reels/the-birch-kuala-lumpur-gmyawfdb
+243309,"Parc 3, Cheras",3,2,2,2900,34800,865.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1218972253,101.7306733131,https://speedhome.com/reels/parc-3-cheras-oopmillq
+241967,"The Elements, Ampang Hilir",1,1,1,1950,23400,705.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1612557298,101.7481130362,https://speedhome.com/reels/the-elements-ampang-hilir-goebwpmc
+241092,"Arte+, Jalan Ampang",2,2,1,2200,26400,777.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1618303,101.7478411,https://speedhome.com/reels/arte-jalan-ampang-iwnwfrnj
+238511,The Birch Residency,2,2,2,2200,26400,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1763867,101.6840811,https://speedhome.com/reels/the-birch-residency-dcfqwxlh
+237789,"Kenwingston Platz, Setapak",2,2,1,1600,19200,650.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.2010844645155743,101.70337771760785,https://speedhome.com/reels/kenwingston-platz-setapak-wrbryvsn
+237715,"Datum Jelatek Serviced Residences, Wilayah Persekutuan",2,1,2,2800,33600,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1705321817126184,101.7482935538555,https://speedhome.com/reels/datum-jelatek-serviced-residences-wilayah-persekutuan-evqcxhhw
+236176,The Birch,2,2,1,1900,22800,668.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1766203561926845,101.68386662493765,https://speedhome.com/reels/the-birch-mbjrfaba
+235138,Residensi Bayu Andaman,3,2,1,1800,21600,1000.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.199079955204246,101.69674208370488,https://speedhome.com/reels/residensi-bayu-andaman-rbfqvuao
+230087,"Fera Residence, Wangsa Maju",3,2,2,2500,30000,819.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1919359028,101.7376899719,https://speedhome.com/reels/fera-residence-wangsa-maju-lffibdxa
+229738,M Vertica KL City Residences,3,2,2,2850,34200,850.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.118422745861488,101.72757073164374,https://speedhome.com/reels/m-vertica-kl-city-residences-fkketkea
+228112,"The Elements Ampang Condominium, Kuala Lumpur",1,1,1,2000,24000,705.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.161876,101.748082,https://speedhome.com/reels/the-elements-ampang-condominium-kuala-lumpur-vtbepthn
+227793,"Sri Mutiara, Sungai Besi",2,2,1,1500,18000,807.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1252717877,101.7086416483,https://speedhome.com/reels/sri-mutiara-sungai-besi-mjktlamd
+227189,"Pertiwi Indah, Cheras",3,2,2,2200,26400,1100.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1378433,101.7336774,https://speedhome.com/reels/pertiwi-indah-cheras-kjsvfknp
+226300,"Residensi Platinum Teratai, Kuala Lumpur",1,1,0,640,7680,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.2011072,101.7091767,https://speedhome.com/reels/residensi-platinum-teratai-kuala-lumpur-mbixgfcd
+217753,"Rica Residence, Sentul",1,1,0,850,10200,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.1781599323,101.6878652573,https://speedhome.com/reels/rica-residence-sentul-peieanbb
+213586,"SkyMeridien, Sentul",1,1,0,1000,12000,,PARTIAL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.188667527488736,101.69558567554041,https://speedhome.com/reels/skymeridien-sentul-sdcxaghc
+205925,"The Elements, Ampang",1,1,0,2000,24000,707.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1612557298,101.7481130362,https://speedhome.com/reels/the-elements-ampang-cetdzddh
+201523,Dua Sentral Residences,1,1,1,2300,27600,710.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1362310059,101.6926449537,https://speedhome.com/reels/dua-sentral-residences-oifwitmc
+196284,"Diamond Regency, Setapak",3,2,2,1500,18000,1002.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1960295,101.7059837,https://speedhome.com/reels/diamond-regency-setapak-bkzgqsfe
+196247,"TR Residence, Kuala Lumpur",3,2,1,2800,33600,753.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1724716669,101.6964805126,https://speedhome.com/reels/tr-residence-kuala-lumpur-thxajbkq
+185958,"Arte +, Jalan Ampang",2,2,1,2000,24000,721.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1610521921,101.7476275563,https://speedhome.com/reels/arte-jalan-ampang-kwpfjxqd
+185231,PV20,4,2,2,1950,23400,1333.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1989630763,101.7213606834,https://speedhome.com/reels/pv20-ujftgyqz
+181553,Chymes Gurney Residence KL,2,2,1,2999,35988,1122.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.169608,101.726011,https://speedhome.com/reels/chymes-gurney-residence-kl-jzkfikmd
+178329,"TR Residence, Kuala Lumpur",1,1,0,990,11880,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,True,3.1724716669,101.6964805126,https://speedhome.com/reels/tr-residence-kuala-lumpur-crzysqxz
+167079,"Suria Jelatek Residence, Ampang Hilir",0,1,0,1900,22800,800.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1631089924,101.7355388403,https://speedhome.com/reels/suria-jelatek-residence-ampang-hilir-uhnbgzja
+162317,"One Residences, Sungai Besi",2,2,2,1900,22800,888.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1263769065659224,101.71189540272398,https://speedhome.com/reels/one-residences-sungai-besi-ciklxkgp
+158448,"Amaya Maluri, Cheras",2,2,2,2600,31200,920.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1273862,101.7295977,https://speedhome.com/reels/amaya-maluri-cheras-sjfylggt
+158031,"Regalia Residence, Kuala Lumpur",0,1,1,2100,25200,600.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.164429,101.692577,https://speedhome.com/reels/regalia-residence-tiijztqi
+155139,Villa Puteri Condominium,3,2,1,2300,27600,1119.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1657914,101.6923278,https://speedhome.com/reels/villa-puteri-condominium-omcppfit
+153227,"Platinum Lake PV20, Setapak",4,2,2,1800,21600,1313.0,PARTIAL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1992526,101.7215084,https://speedhome.com/reels/platinum-lake-pv20-setapak-exfdjlfu
+150560,"Rica Residence, Sentul",2,1,1,1600,19200,657.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.1784228,101.6876832,https://speedhome.com/reels/rica-residence-sentul-kiunkejv
+149891,The Palladium Jalan Gurney 2,3,2,1,2000,24000,1090.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.166752,101.7174571,https://speedhome.com/reels/the-palladium-jalan-gurney-2-qmjdvjxb
+149457,"Maytower, Dang Wangi",0,1,0,1500,18000,439.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.154207,101.698101,https://speedhome.com/reels/maytower-dang-wangi-klurxghf
+148526,"Parkview Service Apartment, Kuala Lumpur",1,1,0,1950,23400,495.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.156034,101.708522,https://speedhome.com/reels/parkview-service-apartment-kuala-lumpur-amkozsfp
+144689,"1 Petaling, Sungai Besi",3,2,1,1700,20400,1098.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.139003,101.686855,https://speedhome.com/reels/1-petaling-sungai-besi-yxxkwcpz
+136828,"The Haute, Gurney KL",3,2,2,2600,31200,1050.0,FULL,HIGHRISE,,,False,3.1711326168,101.7273259163,https://speedhome.com/reels/the-haute-gurney-kl-ehcforjg
+130099,"The Maple, Sentul",4,3,2,3600,43200,1569.0,PARTIAL,HIGHRISE,,,True,3.18501,101.683,https://speedhome.com/reels/the-maple-sentul-lvnhaixt
+124839,"3 Towers, Ampang Hilir",0,1,0,1300,15600,420.0,PARTIAL,HIGHRISE,,,False,3.1607376,101.7417881,https://speedhome.com/reels/3-towers-ampang-hilir-jgkytbki
+121818,"The Elements, Ampang Hilir",1,1,1,1800,21600,705.0,PARTIAL,HIGHRISE,,,False,3.161861,101.748087,https://speedhome.com/reels/the-elements-ampang-hilir-gwokvbkq
+120493,BAM Villa condo,2,2,1,1750,21000,980.0,FULL,HIGHRISE,,,False,3.1371094524,101.732006371,https://speedhome.com/reels/bam-villa-condo-jqavbjuv
+118600,Annexe,1,1,1,1600,19200,650.0,FULL,LANDED,,,True,3.1307692564799003,101.6877358134936,https://speedhome.com/reels/annexe-kqpmorxh
+117883,"Parkview Serviced Apartment, Kuala Lumpur",1,1,1,1950,23400,500.0,FULL,HIGHRISE,,,False,3.155983,101.7085,https://speedhome.com/reels/parkview-serviced-apartment-kuala-lumpur-skgnubtn
+115594,"222 Residency, Setapak",2,2,1,2250,27000,904.0,FULL,HIGHRISE,,,True,3.1968352,101.7075856,https://speedhome.com/reels/222-residency-setapak-uvrwgssk
+113712,"M Suites, Ampang Hilir",2,2,1,2300,27600,1020.0,FULL,HIGHRISE,,,True,3.160109,101.735394,https://speedhome.com/reels/m-suites-ampang-hilir-dnjgxtbk
+113070,"Arte +, Jalan Ampang",1,1,1,1800,21600,604.0,FULL,HIGHRISE,,,False,3.1610521921,101.7476275563,https://speedhome.com/reels/arte-jalan-ampang-qddunany
+110817,"Menara KLH, Jalan Ipoh",3,3,1,1780,21360,1200.0,PARTIAL,HIGHRISE,,,False,3.176431,101.682094,https://speedhome.com/reels/menara-klh-jalan-ipoh-vtejuvyj
+107417,"The Elements, Ampang",1,1,1,1950,23400,640.0,FULL,HIGHRISE,,,False,3.1612557298,101.7481130362,https://speedhome.com/reels/the-elements-ampang-wpnoefix
+106352,Marc Residence KLCC Suites,2,2,2,4000,48000,1066.0,FULL,HIGHRISE,,,False,3.1553174,101.70996990000003,https://speedhome.com/reels/marc-residence-klcc-suites-qfmkpbgi
+103882,"MCity, Jalan Ampang, Kuala Lumpur",1,1,0,1800,21600,510.0,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.159041,101.747901,https://speedhome.com/reels/m-city-kuala-lumpur-ptrpbctd
+103563,"Suria Jelatek Residence, Ampang Hilir",1,1,0,1000,12000,,FULL,ROOM,,,True,3.1632406,101.7355665,https://speedhome.com/reels/suria-jelatek-residence-ampang-hilir-fxgfnwyw
+103278,"Cempaka Suits, Cheras",0,1,0,1650,19800,500.0,FULL,HIGHRISE,,,False,3.1220413,101.7295829,https://speedhome.com/reels/cempaka-suits-cheras-mtjiygrr
+103197,"Suria Jelatek Residence, Ampang Hilir",1,1,0,950,11400,,FULL,ROOM,Kuala Lumpur,Wilayah Persekutuan,False,3.1631089924,101.73553884030002,https://speedhome.com/reels/suria-jelatek-residence-ampang-hilir-igzwcssq
+102636,"Menara Megah Condominium, Kuala Lumpur",3,2,1,1800,21600,1068.0,PARTIAL,HIGHRISE,,,False,3.1729812293359942,101.68851754818542,https://speedhome.com/reels/menara-megah-condominium-jwhgcetk
+98766,"Fawina Court, Ampang",2,2,1,1700,20400,850.0,FULL,HIGHRISE,,,False,3.1519465171,101.749497056,https://speedhome.com/reels/fawina-court-ampang-loaphmrx
+92139,Pertiwi Indah Apartment,3,2,1,1900,22800,1100.0,NONE,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,True,3.1376183083,101.7344042659,https://speedhome.com/reels/pertiwi-indah-apartment-hbanrzkz
+90373,"Court 28, KL City, Sentul",3,2,1,2400,28800,859.0,FULL,HIGHRISE,,,True,3.1762584912,101.6829514503,https://speedhome.com/reels/court-28-kl-city-sentul-ueuvigsb
+87881,M City Condo,1,1,1,2300,27600,700.0,FULL,HIGHRISE,,,False,3.159004,101.747467,https://speedhome.com/reels/m-city-condo-bfktdkzl
+82137,"Verticas Residensi, Bukit Bintang",2,2,1,5000,60000,1023.0,FULL,HIGHRISE,,,True,3.1476855,101.7048,https://speedhome.com/reels/verticas-residensi-bukit-bintang-jshlwocz
+76709,"Warisan Cityview, Cheras",3,2,1,1900,22800,920.0,FULL,HIGHRISE,Kuala Lumpur,Wilayah Persekutuan,False,3.127746,101.720803,https://speedhome.com/reels/warisan-cityview-cheras-kbuawxso
+58133,Dua Sentral Ramada,1,2,0,1600,19200,310.0,FULL,HIGHRISE,,,True,3.136385226642511,101.6928076250762,https://speedhome.com/reels/dua-sentral-ramada-ivrjmfpc
+57780,Indah Cempaka Studio Apartment,1,1,1,1600,19200,675.0,FULL,HIGHRISE,,,True,3.1322188271559535,101.74487211701764,https://speedhome.com/reels/indah-cempaka-studio-apartment-move-in-condition-ippwmhbk
+56720,"Dua Sentral Residential Tower, Kuala Lumpur",1,1,0,2400,28800,580.0,FULL,HIGHRISE,,,True,3.136385226642511,101.6928076250762,https://speedhome.com/reels/dua-sentral-residential-tower-kuala-lumpur-sqdfhyfr
+19980,Dua Sentral Residency,1,1,0,2400,28800,700.0,FULL,HIGHRISE,,,False,3.1321416,101.6911763,https://speedhome.com/reels/dua-sentral-residency-mokstuki

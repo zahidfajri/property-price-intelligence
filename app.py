@@ -255,6 +255,35 @@ using scraper.py.
         )
 
     # =================================
+    # PROPERTY MAP
+    # =================================
+    if (
+        "latitude" in df.columns
+        and "longitude" in df.columns
+    ):
+
+        map_df = df[
+            ["latitude", "longitude"]
+        ].dropna()
+
+        if not map_df.empty:
+
+            st.divider()
+
+            st.subheader(
+                "🗺️ Property Locations"
+            )
+
+            st.caption(
+                "Interactive map showing property locations in the selected area."
+            )
+
+            st.map(
+                map_df,
+                use_container_width=True
+            )
+
+    # =================================
     # PRICE SUMMARY
     # =================================
     st.divider()
