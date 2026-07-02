@@ -1,6 +1,7 @@
 import os
 
 import plotly.express as px
+import pydeck as pdk
 import streamlit as st
 
 from processor import (
@@ -75,6 +76,7 @@ Supported input:
 
 - Area name (e.g. Mont Kiara)
 - Speedhome URL
+- Available Areas: Bangsar, Cyberjaya, KLCC, Kuala Lumpur, Mont Kiara, Petaling Jaya
 
 The application uses locally generated datasets to ensure reliable public deployment.
 """)
@@ -262,9 +264,9 @@ using scraper.py.
         and "longitude" in df.columns
     ):
 
-        map_df = df[
-            ["latitude", "longitude"]
-        ].dropna()
+        map_df = df.dropna(
+            subset=["latitude", "longitude"]
+        )
 
         if not map_df.empty:
 
@@ -275,85 +277,116 @@ using scraper.py.
             )
 
             st.caption(
-                "Interactive map showing property locations in the selected area."
+                "Hover over a marker to see property details."
             )
 
-            st.map(
-                map_df,
-                use_container_width=True
+            layer = pdk.Layer(
+                "ScatterplotLayer",
+                data=map_df,
+                get_position='[longitude, latitude]',
+                get_radius=80,
+                get_fill_color='[255, 0, 0, 180]',
+                pickable=True
             )
 
-    # =================================
-    # PRICE SUMMARY
-    # =================================
-    st.divider()
+            view_state = pdk.ViewState(
+                latitude=map_df["latitude"].mean(),
+                longitude=map_df["longitude"].mean(),
+                zoom=12
+            )
 
-    st.subheader(
-        "📊 Price Summary"
-    )
+            tooltip = {
+                "html": """
+                <b>{name}</b><br/>
+                RM {monthly_price}/month<br/>
+                {bedroom} Bedrooms<br/>
+                {sqft} sqft
+                """,
+                "style": {
+                    "backgroundColor": "steelblue",
+                    "color": "white"
+                }
+            }
 
-    st.dataframe(
-        summary_df,
-        use_container_width=True
-    )
+            st.pydeck_chart(
+                pdk.Deck(
+                    layers=[layer],
+                    initial_view_state=view_state,
+                    tooltip=tooltip
+                )
+            )
 
-    # =================================
-    # DAILY RENTAL DISCLAIMER
-    # =================================
-    st.info("""
-ℹ️ Daily rental information is not available on Speedhome.
+        # =================================
+        # PRICE SUMMARY
+        # =================================
+        st.divider()
 
-This application displays monthly and yearly rental estimates instead.
-""")
-
-    # =================================
-    # UNIT LISTINGS
-    # =================================
-    st.divider()
-
-    st.subheader(
-        "🏢 Unit Listings"
-    )
-
-    display_df = df.rename(columns={
-        "name": "Property Name",
-        "bedroom": "Bedrooms",
-        "bathroom": "Bathrooms",
-        "carpark": "Carparks",
-        "monthly_price": "Monthly Price (RM)",
-        "yearly_price": "Yearly Price (RM)",
-        "sqft": "Size (sqft)",
-        "furnish_type": "Furnishing",
-        "property_type": "Property Type",
-        "listing_url": "Listing URL"
-    })
-
-    st.dataframe(
-        display_df,
-        use_container_width=True
-    )
-
-    # =================================
-    # DOWNLOAD SECTION
-    # =================================
-    st.divider()
-
-    st.subheader(
-        "⬇️ Download Report"
-    )
-
-    excel_file = create_excel_file(
-        summary_df,
-        df
-    )
-
-    st.download_button(
-        label="Download Excel Report",
-        data=excel_file,
-        file_name=f"{area_slug}_analysis.xlsx",
-        mime=(
-            "application/"
-            "vnd.openxmlformats-officedocument."
-            "spreadsheetml.sheet"
+        st.subheader(
+            "📊 Price Summary"
         )
-    )
+
+        st.dataframe(
+            summary_df,
+            use_container_width=True
+        )
+
+        # =================================
+        # DAILY RENTAL DISCLAIMER
+        # =================================
+        st.info("""
+    ℹ️ Daily rental information is not available on Speedhome.
+
+    This application displays monthly and yearly rental estimates instead.
+    """)
+
+        # =================================
+        # UNIT LISTINGS
+        # =================================
+        st.divider()
+
+        st.subheader(
+            "🏢 Unit Listings"
+        )
+
+        display_df = df.rename(columns={
+            "name": "Property Name",
+            "bedroom": "Bedrooms",
+            "bathroom": "Bathrooms",
+            "carpark": "Carparks",
+            "monthly_price": "Monthly Price (RM)",
+            "yearly_price": "Yearly Price (RM)",
+            "sqft": "Size (sqft)",
+            "furnish_type": "Furnishing",
+            "property_type": "Property Type",
+            "listing_url": "Listing URL"
+        })
+
+        st.dataframe(
+            display_df,
+            use_container_width=True
+        )
+
+        # =================================
+        # DOWNLOAD SECTION
+        # =================================
+        st.divider()
+
+        st.subheader(
+            "⬇️ Download Report"
+        )
+
+        excel_file = create_excel_file(
+            summary_df,
+            df
+        )
+
+        st.download_button(
+            label="Download Excel Report",
+            data=excel_file,
+            file_name=f"{area_slug}_analysis.xlsx",
+            mime=(
+                "application/"
+                "vnd.openxmlformats-officedocument."
+                "spreadsheetml.sheet"
+            )
+        )
